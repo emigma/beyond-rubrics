@@ -1,6 +1,5 @@
 # **Beyond Rubrics**
 
 A project of
-![Image](/docs/logo-TSL.jpg) & ![Image](/docs/logo-makered.png)
-
+![Alt text](/docs/logo-TSL.jpg "MIT Teaching Systems Lab") & ![Alt text](/docs/logo-makered.png "Maker Ed")
 with Albemarle County School District, Portola Valley School District, & San Mateo County Office of Education
