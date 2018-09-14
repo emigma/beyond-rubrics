@@ -1,6 +1,5 @@
 # Beyond Rubrics
 a project of
-<p id="logos">
-![Image](docs/logo-TSL.jpg) & ![Image](docs/logo-makered.png)
-</p>
+<img src="docs/logo-TSL.jpg" max-width="500">
+<img src="docs/logo-makered.png" max-height="100">
 with Albemarle County School District, Portola Valley School District, & San Mateo County Office of Education
