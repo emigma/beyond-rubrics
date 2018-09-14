@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.css-selector {
-  font-family: 'Righteous', cursive;
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+h1, h2, h3 {
+	font-family: 'Righteous', cursive;
+	line-height: 1.3;
+	font-weight: normal;
 }
