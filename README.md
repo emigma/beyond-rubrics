@@ -8,16 +8,16 @@ with Albemarle County School District, Portola Valley School District, & San Mat
 
 ## What might embedded assessment in maker activities look like? :eyes:
 
-[Is it three-dimensional and hands-on?](/stereocraft/www.md) :wrench: Check out Stereocraft >>
+Is it three-dimensional and hands-on? :wrench:[Check out Stereocraft >>](/stereocraft/www.md)
 
-[Or is it digital, capturing student voice in high-def?](/reflection-collection/www.md) :movie_camera: Check out Reflection Collection >>
+Or is it digital, capturing student voice in high-def? :movie_camera: [Check out Reflection Collection >>](/reflection-collection/www.md)
 
-[Might it resemble a biologist doing field research, or a detective examining evidence?](/field-guide/www.md) :mag: Check out Field Guide >>
+Might it resemble a biologist doing field research, or a detective examining evidence? :mag: [Check out Field Guide >>](/field-guide/www.md)
 
-[Or does it look like a friendly game of ultimate frisbee, baseball, or bingo?](/maker-moments/www.md) :game_die: Check out Maker Moments >>
+Or does it look like a friendly game of ultimate frisbee, baseball, or bingo? :game_die: [Check out Maker Moments >>](/maker-moments/www.md)
 
-[Is it woven into the classroom culture, with special vocabulary and role models?](/superpower-sleuth/www.md) :star: Check out Superpower Sleuth >>
+Is it woven into the classroom culture, with special vocabulary and role models? :star: [Check out Superpower Sleuth >>](/superpower-sleuth/www.md)
 
-Is it as open-ended and youth-centered as the maker activities themselves? :dart:
+Is it as process-driven, open-ended and youth-centered as the maker activities themselves? :dart: Read on to learn more...
 
 ## **Project Overview**
