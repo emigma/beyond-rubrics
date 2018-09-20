@@ -24,4 +24,4 @@ Is it as process-driven, open-ended and youth-centered as the maker activities t
 ------------ | ------------- |  
  |  |  
 
-![Image](/assets/images/MakerElements_i-statements.pdf)
+![Image](/assets/images/MakerElements_i-statements.jpg)
