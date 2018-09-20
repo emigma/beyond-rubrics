@@ -1,8 +1,6 @@
 # **Beyond Rubrics**
 
-A project of ![Image](/assets/images/logo-TSL.jpg) &nbsp; & &nbsp; ![Image](/assets/images/logo-makered.png)
-
-with Albemarle County School District, Portola Valley School District, & San Mateo County Office of Education
+A project of &nbsp; ![Image](/assets/images/logo-TSL.jpg) &nbsp; & &nbsp; ![Image](/assets/images/logo-makered.png) with Albemarle County School District, Portola Valley School District, & San Mateo County Office of Education
 
 ## What might embedded assessment in maker activities look like?
 
