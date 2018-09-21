@@ -4,7 +4,7 @@ A project of &nbsp; ![Image](/assets/images/logo-TSL.jpg) &nbsp; & &nbsp; ![Imag
 
 *This site is a companion to seven tools that comprise the Beyond Rubrics Toolkit.  For an overview of the project, [visit the project webpage](https://tsl.mit.edu/projects/beyond-rubrics/).*
 
-## **The Beyond Rubrics Toolkit** - designed to investigate the question:*
+## **The Beyond Rubrics Toolkit** - designed to investigate:
 
 ### What might embedded assessment in maker activities look like?
 
@@ -21,12 +21,8 @@ Is it woven into the **classroom culture**, with special vocabulary and role mod
 Does it let us see the **process-driven, open-ended and youth-centered** qualities of maker education, along with students' **content learning**?
 [See the Maker Elements that framed our exploration >>](/maker-elements/www.md)
 
-### **Embedded Assessment Building Blocks**
-
 ### SNAPSHOT
 
  |  |  |
 ------------ | ------------- |  
  |  |  
-
- ### TEAM
