@@ -5,7 +5,6 @@ A project of &nbsp; ![Image](/assets/images/logo-TSL.jpg) &nbsp; & &nbsp; ![Imag
 *This site is a companion to seven tools that comprise the Beyond Rubrics Toolkit.  For an overview of the project, [visit the project webpage](https://tsl.mit.edu/projects/beyond-rubrics/).*
 
 ## **The Beyond Rubrics Toolkit** - designed to investigate:
-
 ### What might embedded assessment in maker activities look like?
 
 Is it **multidimensional** and **hands-on**? [See Stereocraft >>](/stereocraft/www.md)
