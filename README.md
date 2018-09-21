@@ -2,21 +2,22 @@
 
 A project of &nbsp; ![Image](/assets/images/logo-TSL.jpg) &nbsp; & &nbsp; ![Image](/assets/images/logo-makered.png) with Albemarle County School District, Portola Valley School District, & San Mateo County Office of Education
 
-## What might embedded assessment in maker activities look like?
+### What might embedded assessment in maker activities look like?
 
-Is it three-dimensional and hands-on? [Check out Stereocraft >>](/stereocraft/www.md)
+Is it **multidimensional** and **hands-on**? [See Stereocraft >>](/stereocraft/www.md)
 
-Or is it digital, capturing student voice in high-def? [Check out Reflection Collection >>](/reflection-collection/www.md)
+Or is it **digital**, capturing **student voice** in high-def? [See Reflection Collection >>](/reflection-collection/www.md)
 
-Might it resemble a biologist doing field research, or a detective examining evidence?  [Check out Field Guide >>](/field-guide/www.md)
+Might it resemble a biologist doing **field research**, or a detective **examining evidence**?  [See Field Guide >>](/field-guide/www.md)
 
-Or does it look like a friendly game of ultimate frisbee, baseball, or bingo? [Check out Maker Moments >>](/maker-moments/www.md)
+Or does it look like a **friendly game** of ultimate frisbee, baseball, or bingo? [See Maker Moments >>](/maker-moments/www.md)
 
-Is it woven into the classroom culture, with special vocabulary and role models? [Check out Superpower Sleuth >>](/superpower-sleuth/www.md)
+Is it woven into the **classroom culture**, with special vocabulary and role models? [See Superpower Sleuth >>](/superpower-sleuth/www.md)
 
-Is it as process-driven, open-ended and youth-centered as the maker activities themselves? Read on to learn more...
+Does it let us see the **process-driven, open-ended and youth-centered** qualities of maker education, along with students' **content learning**?
+[See the Maker Elements that framed our exploration >>](/maker-elements/www.md)
 
-## **Project Overview**
+### **Embedded Assessment Building Blocks**
 
 ### SNAPSHOT
 
@@ -24,4 +25,4 @@ Is it as process-driven, open-ended and youth-centered as the maker activities t
 ------------ | ------------- |  
  |  |  
 
-![Image](/assets/images/MakerElements_i-statements.jpg)
+ ### TEAM
