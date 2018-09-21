@@ -23,6 +23,12 @@ Does it let us see the **process-driven, open-ended and youth-centered** qualiti
 
 ### SNAPSHOT
 
- |  |  |
------------- | ------------- |  
- |  |  
+Tool | Introducing Constructs | Collecting Evidence | Examining Evidence|
+------------ | ------------- |   |
+Maker Elements |  |   |
+Superpower Hour  |  |   |
+Superpower Sleuth   |  |   |
+Maker Moments    |  |   |
+Stereocraft |  |   |
+Reflection Collection  |  |   |
+Field Guide |  |   |
